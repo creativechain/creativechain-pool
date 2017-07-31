@@ -33,10 +33,10 @@
 
     "website": {
         "enabled": true,
-        "host": "192.168.0.39", //your local ip address here
-        "siteTitle": "Crea Coin Mining Pool!",
+        "host": "192.168.42.72", //your local ip address here
+        "siteTitle": "Creativecoin Testnet Mining Pool!",
         "port": 5060,
-        "stratumHost": "theminingpool.mine.nu", // your stratum server here
+        "stratumHost": "192.168.42.72", // your stratum server here
         "stats": {
             "updateInterval": 60,
             "historicalRetention": 43200,

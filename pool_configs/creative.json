@@ -3,11 +3,11 @@
     "coin": "crea.json",
 
     "auxes": [  ],
-    "address": "CZAQSz9feeBBFUyZ2onLzvBaZwQBMJadyR", //pool address
+    "address": "cGbhz8PqXcuXSNBySVMumWFGqpUrwaVBpz", //pool address
 
     "rewardRecipients": {
-        "CXmHRP35FjbkQV2bg9rNHkYYd7QXDnggpC": 1.5, //fees address
-        "CXmHRP35FjbkQV2bg9rNHkYYd7QXDnggpC": 1.5  //co-owner fees
+        "cB4LEvjpEFmpZpTqRV5U1aVq8onEJt5gR4": 1.5, //fees address
+        "cB4LEvjpEFmpZpTqRV5U1aVq8onEJt5gR4": 1.5  //co-owner fees
     },
 
     "paymentProcessing": {
@@ -15,10 +15,10 @@
         "paymentInterval": 600,
         "minimumPayment": 0.01,
         "daemon": {
-            "host": "127.0.0.1",
-            "port": 19037,
-            "user": "YOURRPCUSERNAME",
-            "password": "YOURRPCPASSWORD"
+            "host": "192.168.42.142",
+            "port": 9600,
+            "user": "crea",
+            "password": "tivecoin"
         }
     },
 
@@ -55,10 +55,10 @@
 
     "daemons": [
         {
-            "host": "127.0.0.1",
-            "port": 19037,
-            "user": "YOURRPCUSERNAME",
-            "password": "YOURRPCPASSWORD"
+            "host": "192.168.42.142",
+            "port": 9600,
+            "user": "crea",
+            "password": "tivecoin"
         }
     ],
 
