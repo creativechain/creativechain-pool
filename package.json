@@ -39,7 +39,7 @@
         "url": "https://github.com/UNOMP/unified-node-open-mining-portal.git"
     },
     "dependencies": {
-        "merged-pooler": "git+https://projects.owldevelopers.tk/cryptocoin/node-merged-pooler.git",
+        "merged-pooler": "git+https://projects.owldevelopers.site/cryptocoin/node-merged-pooler.git",
         "dateformat": "1.0.12",
 	"log4js": "0.6.31",
 	"bitcoin": "3.0.1",
